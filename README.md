@@ -68,8 +68,7 @@ Mine WFX tokens with the [WhammyFlex Miner](https://github.com/turbo399/whammyfl
 
 ## 🗺️ Miner-to-Wallet Flow
 
-
-
+---
 
 ## 📄 License
 
