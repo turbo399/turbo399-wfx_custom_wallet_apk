@@ -31,9 +31,10 @@ Welcome to **WhammyFlex APK** — a custom Android wallet app for WhammyFlex (WF
 ## 📷 Screenshots
 
 *Add your screenshots here:*  
-![Screenshot 1](link-or-upload-later)  
-![Screenshot 2](link-or-upload-later)
-
+![Image](https://github.com/user-attachments/assets/8770f104-2c3e-4be6-b6f9-8cc3522a6d8c)
+![Image](https://github.com/user-attachments/assets/ea993c0e-04c9-45c9-83f8-13b3b71a4927)
+![Image](https://github.com/user-attachments/assets/871c194d-da4e-4636-9345-2c5adaf7db42)
+![Image](https://github.com/user-attachments/assets/f3f64b3a-9012-4b21-be97-1bd64ab14167)
 ---
 
 ## 🔗 Links
