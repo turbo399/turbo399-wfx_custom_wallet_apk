@@ -48,6 +48,28 @@ Welcome to **WhammyFlex APK** — a custom Android wallet app for WhammyFlex (WF
 - WhammyFlex Custom Wallet Source: [Your source repo](https://github.com/turbo399/turbo399-wfx_custom_wallet_apk)
 
 ---
+---
+
+## 🔗 Related Project: WhammyFlex Miner
+
+Mine WFX tokens with the [WhammyFlex Miner](https://github.com/turbo399/whammyflex_miner) and send them directly to your WhammyFlex Wallet!
+
+---
+
+## 🛠️ How Wallet & Miner Work Together
+
+1. Download and install the WhammyFlex APK Wallet on your Android device.
+2. Set up the WhammyFlex Miner on your PC, server, or Raspberry Pi.
+3. Configure the miner to send payouts to your WhammyFlex Wallet address (shown in the app).
+4. Monitor mining stats in your Prometheus + Grafana dashboards.
+5. Use your WhammyFlex Wallet to store, send, or spend your mined WFX tokens!
+
+---
+
+## 🗺️ Miner-to-Wallet Flow
+
+
+
 
 ## 📄 License
 
