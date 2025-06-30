@@ -31,9 +31,12 @@ Welcome to **WhammyFlex APK** — a custom Android wallet app for WhammyFlex (WF
 ## 📷 Screenshots
 
 *Add your screenshots here:*  
-| Screenshot 1                                                                                                                | Screenshot 2                                                                                                                | Screenshot 3                                                                                                                | Screenshot 4                                                                                                               |
-| --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/8770f104-2c3e-4be6-b6f9-8cc3522a6d8c" alt="Screenshot 1" width="200"/> | <img src="https://github.com/user-attachments/assets/e03930ce-04c9-45c9-83fb-3b3ba71a4927" alt="Screenshot 2" width="200"/> | <img src="https://github.com/user-attachments/assets/16f91d4b-d4ae-4266-9345-2c56adf7db42" alt="Screenshot 3" width="200"/> | <img src="https://github.com/user-attachments/assets/f3f64b3a-9012-4b21-be97-bd64ab14167" alt="Screenshot 4" width="200"/> |
+## 📸 Screenshots
+
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
+|---|---|---|---|
+| <img src="https://github.com/user-attachments/assets/600a060e-ee89-49c6-a78d-9cbad41d8b73" alt="Screenshot 1" width="200"/> | <img src="https://github.com/user-attachments/assets/c5df3675-679d-4e7e-913e-f49434aefc7d" alt="Screenshot 2" width="200"/> | <img src="https://github.com/user-attachments/assets/c195b6ce-ef56-4f61-94cf-529397080b92" alt="Screenshot 3" width="200"/> | <img src="https://github.com/user-attachments/assets/097fee1e-517e-40ac-8285-ab08253fbb17" alt="Screenshot 4" width="200"/> |
+
 
 ---
 
